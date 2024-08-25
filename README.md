@@ -1,4 +1,4 @@
 # starting-theme
-npm install
-git checkout -b new
+npm install,
+git checkout -b new,
 gulp
