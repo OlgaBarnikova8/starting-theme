@@ -1,0 +1,15 @@
+@import '../../node_modules/swiper/swiper-bundle';
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: aqua;
+}
+
+.text {
+    color: pink;
+    text-transform: uppercase;
+}
